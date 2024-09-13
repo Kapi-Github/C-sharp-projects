@@ -1,0 +1,15 @@
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\obj\Debug\net8.0\Wyszukiwanie_naiwne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\obj\Debug\net8.0\Wyszukiwanie_naiwne.AssemblyInfoInputs.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\obj\Debug\net8.0\Wyszukiwanie_naiwne.AssemblyInfo.cs
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\obj\Debug\net8.0\Wyszukiwanie_naiwne.csproj.CoreCompileInputs.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\obj\Debug\net8.0\Wyszukiwanie_naiwne.sourcelink.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\bin\Debug\net8.0\Wyszukiwanie_naiwne.exe
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\bin\Debug\net8.0\Wyszukiwanie_naiwne.deps.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\bin\Debug\net8.0\Wyszukiwanie_naiwne.runtimeconfig.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\bin\Debug\net8.0\Wyszukiwanie_naiwne.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\bin\Debug\net8.0\Wyszukiwanie_naiwne.pdb
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\obj\Debug\net8.0\Wyszukiwanie_naiwne.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\obj\Debug\net8.0\refint\Wyszukiwanie_naiwne.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\obj\Debug\net8.0\Wyszukiwanie_naiwne.pdb
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\obj\Debug\net8.0\Wyszukiwanie_naiwne.genruntimeconfig.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Wyszukiwanie_naiwne\Wyszukiwanie_naiwne\obj\Debug\net8.0\ref\Wyszukiwanie_naiwne.dll

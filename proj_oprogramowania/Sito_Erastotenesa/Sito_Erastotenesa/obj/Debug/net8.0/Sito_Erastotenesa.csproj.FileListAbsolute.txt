@@ -1,0 +1,15 @@
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\obj\Debug\net8.0\Sito_Erastotenesa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\obj\Debug\net8.0\Sito_Erastotenesa.AssemblyInfoInputs.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\obj\Debug\net8.0\Sito_Erastotenesa.AssemblyInfo.cs
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\obj\Debug\net8.0\Sito_Erastotenesa.csproj.CoreCompileInputs.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\obj\Debug\net8.0\Sito_Erastotenesa.sourcelink.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\bin\Debug\net8.0\Sito_Erastotenesa.exe
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\bin\Debug\net8.0\Sito_Erastotenesa.deps.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\bin\Debug\net8.0\Sito_Erastotenesa.runtimeconfig.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\bin\Debug\net8.0\Sito_Erastotenesa.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\bin\Debug\net8.0\Sito_Erastotenesa.pdb
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\obj\Debug\net8.0\Sito_Erastotenesa.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\obj\Debug\net8.0\refint\Sito_Erastotenesa.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\obj\Debug\net8.0\Sito_Erastotenesa.pdb
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\obj\Debug\net8.0\Sito_Erastotenesa.genruntimeconfig.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Sito_Erastotenesa\Sito_Erastotenesa\obj\Debug\net8.0\ref\Sito_Erastotenesa.dll

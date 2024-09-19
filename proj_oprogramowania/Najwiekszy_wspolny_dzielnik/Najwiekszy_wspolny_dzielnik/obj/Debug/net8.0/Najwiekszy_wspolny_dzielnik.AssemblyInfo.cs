@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Wyszukiwanie_naiwne")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Najwiekszy_wspolny_dzielnik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74f5b41b06bfdc7982f3141631a4f5ce2048e5f0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Wyszukiwanie_naiwne")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Wyszukiwanie_naiwne")]
+[assembly: System.Reflection.AssemblyProductAttribute("Najwiekszy_wspolny_dzielnik")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Najwiekszy_wspolny_dzielnik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.

@@ -1,0 +1,15 @@
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\obj\Debug\net8.0\Najwiekszy_wspolny_dzielnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\obj\Debug\net8.0\Najwiekszy_wspolny_dzielnik.AssemblyInfoInputs.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\obj\Debug\net8.0\Najwiekszy_wspolny_dzielnik.AssemblyInfo.cs
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\obj\Debug\net8.0\Najwiekszy_wspolny_dzielnik.csproj.CoreCompileInputs.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\obj\Debug\net8.0\Najwiekszy_wspolny_dzielnik.sourcelink.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\bin\Debug\net8.0\Najwiekszy_wspolny_dzielnik.exe
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\bin\Debug\net8.0\Najwiekszy_wspolny_dzielnik.deps.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\bin\Debug\net8.0\Najwiekszy_wspolny_dzielnik.runtimeconfig.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\bin\Debug\net8.0\Najwiekszy_wspolny_dzielnik.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\bin\Debug\net8.0\Najwiekszy_wspolny_dzielnik.pdb
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\obj\Debug\net8.0\Najwiekszy_wspolny_dzielnik.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\obj\Debug\net8.0\refint\Najwiekszy_wspolny_dzielnik.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\obj\Debug\net8.0\Najwiekszy_wspolny_dzielnik.pdb
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\obj\Debug\net8.0\Najwiekszy_wspolny_dzielnik.genruntimeconfig.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Najwiekszy_wspolny_dzielnik\Najwiekszy_wspolny_dzielnik\obj\Debug\net8.0\ref\Najwiekszy_wspolny_dzielnik.dll

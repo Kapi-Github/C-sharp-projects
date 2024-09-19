@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\4P_g2\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Polimorfizm.csproj": {}
+    "C:\\Users\\kwlad\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Polimorfizm.csproj": {}
   },
   "projects": {
-    "D:\\Users\\4P_g2\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Polimorfizm.csproj": {
+    "C:\\Users\\kwlad\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Polimorfizm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\4P_g2\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Polimorfizm.csproj",
+        "projectUniqueName": "C:\\Users\\kwlad\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Polimorfizm.csproj",
         "projectName": "Polimorfizm",
-        "projectPath": "D:\\Users\\4P_g2\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Polimorfizm.csproj",
-        "packagesPath": "D:\\Users\\4P_g2\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\4P_g2\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\obj\\",
+        "projectPath": "C:\\Users\\kwlad\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Polimorfizm.csproj",
+        "packagesPath": "C:\\Users\\kwlad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kwlad\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Users\\4P_g2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kwlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

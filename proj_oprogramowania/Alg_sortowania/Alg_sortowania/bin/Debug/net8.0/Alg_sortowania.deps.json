@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Alg_sortowania/1.0.0": {
+        "runtime": {
+          "Alg_sortowania.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alg_sortowania/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

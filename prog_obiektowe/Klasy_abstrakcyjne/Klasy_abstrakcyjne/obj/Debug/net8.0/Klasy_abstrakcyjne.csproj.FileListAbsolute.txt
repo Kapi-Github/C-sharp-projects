@@ -1,0 +1,15 @@
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\bin\Debug\net8.0\Klasy_abstrakcyjne.exe
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\bin\Debug\net8.0\Klasy_abstrakcyjne.deps.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\bin\Debug\net8.0\Klasy_abstrakcyjne.runtimeconfig.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\bin\Debug\net8.0\Klasy_abstrakcyjne.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\bin\Debug\net8.0\Klasy_abstrakcyjne.pdb
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\obj\Debug\net8.0\Klasy_abstrakcyjne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\obj\Debug\net8.0\Klasy_abstrakcyjne.AssemblyInfoInputs.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\obj\Debug\net8.0\Klasy_abstrakcyjne.AssemblyInfo.cs
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\obj\Debug\net8.0\Klasy_abstrakcyjne.csproj.CoreCompileInputs.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\obj\Debug\net8.0\Klasy_abstrakcyjne.sourcelink.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\obj\Debug\net8.0\Klasy_abstrakcyjne.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\obj\Debug\net8.0\refint\Klasy_abstrakcyjne.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\obj\Debug\net8.0\Klasy_abstrakcyjne.pdb
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\obj\Debug\net8.0\Klasy_abstrakcyjne.genruntimeconfig.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\prog_obiektowe\Klasy_abstrakcyjne\Klasy_abstrakcyjne\obj\Debug\net8.0\ref\Klasy_abstrakcyjne.dll

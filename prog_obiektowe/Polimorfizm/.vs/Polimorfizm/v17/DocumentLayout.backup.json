@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kwlad\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\",
+  "WorkspaceRootPath": "D:\\Users\\4P_g2\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91446440-9226-4B9C-864D-92025E08F4AF}|Polimorfizm\\Polimorfizm.csproj|c:\\users\\kwlad\\documents\\github\\c-sharp-projects\\prog_obiektowe\\polimorfizm\\polimorfizm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91446440-9226-4B9C-864D-92025E08F4AF}|Polimorfizm\\Polimorfizm.csproj|d:\\users\\4p_g2\\documents\\github\\c-sharp-projects\\prog_obiektowe\\polimorfizm\\polimorfizm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91446440-9226-4B9C-864D-92025E08F4AF}|Polimorfizm\\Polimorfizm.csproj|solutionrelative:polimorfizm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kwlad\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\4P_g2\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Program.cs",
               "RelativeDocumentMoniker": "Polimorfizm\\Program.cs",
-              "ToolTip": "C:\\Users\\kwlad\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Program.cs*",
+              "ToolTip": "D:\\Users\\4P_g2\\Documents\\GitHub\\C-sharp-projects\\prog_obiektowe\\Polimorfizm\\Polimorfizm\\Program.cs*",
               "RelativeToolTip": "Polimorfizm\\Program.cs*",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAcwG4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAYwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T21:31:19.688Z",
               "EditorCaption": ""

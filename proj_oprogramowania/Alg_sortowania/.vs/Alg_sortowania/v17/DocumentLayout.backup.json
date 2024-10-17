@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\4P_g2\\Documents\\GitHub\\C-sharp-projects\\proj_oprogramowania\\Alg_sortowania\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88EBC261-D102-4189-BCB5-B25D73AA4744}|Alg_sortowania\\Alg_sortowania.csproj|d:\\users\\4p_g2\\documents\\github\\c-sharp-projects\\proj_oprogramowania\\alg_sortowania\\alg_sortowania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EBC261-D102-4189-BCB5-B25D73AA4744}|Alg_sortowania\\Alg_sortowania.csproj|solutionrelative:alg_sortowania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\4P_g2\\Documents\\GitHub\\C-sharp-projects\\proj_oprogramowania\\Alg_sortowania\\Alg_sortowania\\Program.cs",
+              "RelativeDocumentMoniker": "Alg_sortowania\\Program.cs",
+              "ToolTip": "D:\\Users\\4P_g2\\Documents\\GitHub\\C-sharp-projects\\proj_oprogramowania\\Alg_sortowania\\Alg_sortowania\\Program.cs",
+              "RelativeToolTip": "Alg_sortowania\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:51:16.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\bin\Debug\net8.0\Alg_sortowania.exe
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\bin\Debug\net8.0\Alg_sortowania.deps.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\bin\Debug\net8.0\Alg_sortowania.runtimeconfig.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\bin\Debug\net8.0\Alg_sortowania.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\bin\Debug\net8.0\Alg_sortowania.pdb
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\obj\Debug\net8.0\Alg_sortowania.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\obj\Debug\net8.0\Alg_sortowania.AssemblyInfoInputs.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\obj\Debug\net8.0\Alg_sortowania.AssemblyInfo.cs
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\obj\Debug\net8.0\Alg_sortowania.csproj.CoreCompileInputs.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\obj\Debug\net8.0\Alg_sortowania.sourcelink.json
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\obj\Debug\net8.0\Alg_sortowania.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\obj\Debug\net8.0\refint\Alg_sortowania.dll
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\obj\Debug\net8.0\Alg_sortowania.pdb
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\obj\Debug\net8.0\Alg_sortowania.genruntimeconfig.cache
+D:\Users\4P_g2\Documents\GitHub\C-sharp-projects\proj_oprogramowania\Alg_sortowania\Alg_sortowania\obj\Debug\net8.0\ref\Alg_sortowania.dll

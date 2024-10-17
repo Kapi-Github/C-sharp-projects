@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sito_Erastotenesa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74f5b41b06bfdc7982f3141631a4f5ce2048e5f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cee2894b4538b26a6de619f0b55dc6b221e4c5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sito_Erastotenesa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sito_Erastotenesa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

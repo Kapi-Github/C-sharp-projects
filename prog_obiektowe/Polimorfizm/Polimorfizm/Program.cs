@@ -2,18 +2,29 @@
 {
     internal class Program
     {
-        class Figura
+        interface IDD
         {
-            protected string nazwa;
+            double Pole();
+        }
+
+        interface I3D
+        {
+            double Objetosc();
+        }
+
+        class Figura : IDD, I3D
+        {
+            private string _nazwa;
+            public string Nazwa { get; set; }
             public Figura(string nazwa)
             {
-                this.nazwa = nazwa;
+                Nazwa = nazwa;
             }
-            public virtual double Pole()
+            public double Pole()
             {
                 return 0;
             }
-            public virtual double Objetosc()
+            public double Objetosc()
             {
                 return 0;
             }
@@ -23,14 +34,15 @@
             }
         }
 
-        class Kolo : Figura
+        class Kolo : Figura, IDD
         {
-            protected double promien;
+            private double promien;
+            public double Promien { get; set; }
             public Kolo(string nazwa, double promien): base(nazwa)
             {
-                this.promien = promien;
+                Promien = promien;
             }
-            public override double Pole()
+            public double Pole()
             {
                 return Math.PI * Math.Pow(promien, 2);
             }
@@ -41,19 +53,19 @@
             }
         }
 
-        class Kula : Kolo
+        class Kula : Kolo, IDD, I3D
         {
             public Kula(string nazwa, double promien) : base(nazwa, promien)
             {
                 base.promien = promien;
             }
-            public override double Objetosc()
-            {
-                return (4.0/3.0) * Math.PI * Math.Pow(promien, 3);
-            }
-            public override double Pole()
+            public double Pole()
             {
                 return 4.0 * base.Pole();
+            }
+            public double Objetosc()
+            {
+                return (4.0/3.0) * Math.PI * Math.Pow(promien, 3);
             }
             public override void Wyswietl()
             {
@@ -62,7 +74,7 @@
             }
         }
 
-        class Stozek : Kolo
+        class Stozek : Kolo, IDD, I3D
         {
             protected double wysokosc;
             public Stozek(string nazwa, double promien, double wysokosc) : base(nazwa, promien)
@@ -70,11 +82,11 @@
                 base.promien = promien;
                 this.wysokosc = wysokosc;
             }
-            public override double Objetosc()
+            public double Objetosc()
             {
                 return (1.0 / 3.0) * base.Pole() * wysokosc;
             }
-            public override double Pole()
+            public double Pole()
             {
                 return Math.PI * promien * (promien + (Math.Sqrt(Math.Pow(wysokosc, 2) + Math.Pow(promien, 2))));
             }
@@ -85,7 +97,7 @@
             }
         }
 
-        class Walec : Kolo
+        class Walec : Kolo, IDD, I3D
         {
             protected double wysokosc;
             public Walec(string nazwa, double promien, double wysokosc) : base(nazwa, promien)
@@ -93,11 +105,11 @@
                 base.promien = promien;
                 this.wysokosc = wysokosc;
             }
-            public override double Objetosc()
+            public double Objetosc()
             {
                 return base.Pole() * wysokosc;
             }
-            public override double Pole()
+            public double Pole()
             {
                 return 2.0 * Math.PI * promien * (promien + wysokosc);
             }
